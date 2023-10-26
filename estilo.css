@@ -1,0 +1,97 @@
+body{
+    font-family: 'gabarito', sans-serif;
+    margin: 25px 50px 25px 50px;
+    background-image:url(https://media.timeout.com/images/105757031/image.jpg);
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+#cabecalho{
+    text-align: center;
+    padding: 35px;
+    margin: expanded ;
+   
+    
+}
+
+
+nav#menu ul{
+    list-style-type: none;
+    padding-left: 0px;
+    padding: 30px;
+}
+
+nav#menu ul li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav#menu li a{
+    padding: 20px 40px;
+    text-decoration: none;
+    color: #c6e5b1;
+    font-size: 30px;
+   
+}
+
+nav#menu a:hover{
+    color: #238E23;
+    background-color:#c6e5b1;
+    font-size: 35px;
+    transition: 0.4s;
+    border-radius: 20px;
+}
+
+#cont{
+    margin: 5% 15% 0% 15%;
+}
+
+h1{
+    color: #30b130;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color:#30b130;
+    font-size: 30px;
+    
+}
+
+#footer{
+    text-decoration-line: overline;
+    text-align: center;
+    padding: 40px;
+}
+
+#subway{
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+}
+
+#fundo{
+    background-color: black;
+    opacity: 50%;
+}
+
+p{
+    font-size: 40px;
+    color: #238E23;
+    
+    
+}
+
+h3{
+    font-size: 30px;
+}
+
+
+h4{
+    font-size: 20px;
+
+}
